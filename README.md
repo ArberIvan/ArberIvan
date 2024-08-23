@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am 28 years old and currently work as an IT Specialist. I have experience and courses in data analysis and data science through my own entrepreneurial projects. I consider myself analytical and highly creative, with curiosity being my strongest trait. I’m not afraid of the unknown; rather, it motivates me to continuously explore new technologies and procedures.
+I am 28 years old and currently work as an IT Specialist. I have experience and training in data analysis and data science through my own entrepreneurial projects. I consider myself an analytical and highly creative person, driven by curiosity to continuously explore new technologies and procedures. I am not afraid of the unknown; instead, it motivates me to keep learning and improving.
 
-I’m looking for a place where I can face new challenges to apply my skills and acquire new ones.
+I am looking for a place where I can face new challenges that allow me to apply my skills and continue growing professionally.
 
-Outside of my professional career, I am a player and physical trainer for an ultimate frisbee team in the city of Paraná, Entre Ríos. On my days off, I work out in the gym or practice calisthenics. I’m passionate about sports and engage in physical activities almost every day of the week.
+Outside of work, I am a player and physical trainer for an ultimate frisbee team in Paraná, Entre Ríos. In my free time, I go to the gym and practice calisthenics, enjoying sports almost every day of the week.
 
 Where to find me:
 - www.linkedin.com/in/ivan-arber
