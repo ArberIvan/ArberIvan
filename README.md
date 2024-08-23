@@ -6,9 +6,9 @@ I’m looking for a place where I can face new challenges to apply my skills and
 
 Outside of my professional career, I am a player and physical trainer for an ultimate frisbee team in the city of Paraná, Entre Ríos. On my days off, I work out in the gym or practice calisthenics. I’m passionate about sports and engage in physical activities almost every day of the week.
 
-You can find me at:
--www.linkedin.com/in/ivan-arber
--https://www.instagram.com/ivan_arber?igsh=YTBpMmE2c2hoZnhk
+Where to find me:
+- www.linkedin.com/in/ivan-arber
+- https://www.instagram.com/ivan_arber?igsh=YTBpMmE2c2hoZnhk
 <!--
 **ArberIvan/ArberIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
