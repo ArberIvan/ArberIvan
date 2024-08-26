@@ -16,8 +16,6 @@ In this space, I will upload the most relevant projects I have worked on so far.
 
 ## My last resume:
 
-[![Roadmap](https://img.shields.io/github/stars/ArberIvan/CV-Arber_Ivan?label=CV-Arber_Ivan&style=social)](https://github.com/ArberIvan/CV-Arber_Ivan)
-
 <a href="https://github.com/ArberIvan/CV-Arber_Ivan"><img src="https://github.com/ArberIvan/ArberIvan/blob/main/cv_image.png" style="height: 60%; width:60%;"/></a>
 
 # The most relevant works are the following:
