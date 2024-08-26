@@ -8,7 +8,7 @@ Outside of work, I am a player and physical trainer for an ultimate frisbee team
 
 In this space, I will upload the most relevant projects I have worked on so far. They cover a variety of topics, with some done as part of my job and others outside of it.
 
-## Where to find me:
+## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Arber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ivan-arber)
 
