@@ -14,7 +14,7 @@ In this space, I will upload the most relevant projects I have worked on so far.
 
 [![Instagram](https://img.shields.io/badge/Instagram-@ivan_arber-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/ivan_arber?igsh=YTBpMmE2c2hoZnhk)
 
-## My last resume:
+## My last resume (in spanish):
 
 <a href="https://github.com/ArberIvan/CV-Arber_Ivan/blob/04bd56638259065f56e848a9acde3c617de2d2a6/ARBER%2CIV%C3%81N.pdf"><img src="https://github.com/ArberIvan/ArberIvan/blob/main/cv_image.png" style="height: 60%; width:60%;"/></a>
 
