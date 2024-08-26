@@ -12,7 +12,9 @@ Where to find me:
 - www.linkedin.com/in/ivan-arber
 - https://www.instagram.com/ivan_arber?igsh=YTBpMmE2c2hoZnhk
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Arber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/ivan-arber)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Arber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ivan-arber)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@ivan_arber-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/ivan_arber?igsh=YTBpMmE2c2hoZnhk)
 
 The most relevant works are the following:
 
