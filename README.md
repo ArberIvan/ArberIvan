@@ -24,7 +24,7 @@ See ya, IA (not a 🤖)
 
 # The most relevant works are the following:
 
-##Metal-Structure_Bolts
+## Metal-Structure_Bolts
 
 <a href="https://github.com/ArberIvan/Metal-Structure_Bolts"><img src="https://github.com/ArberIvan/ArberIvan/blob/main/estruc_minera.png" style="height: 60%; width:60%;"/></a>
 
