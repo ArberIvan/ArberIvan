@@ -26,6 +26,7 @@ See ya, IA (not a 🤖)
 
 ## Metal-Structure_Bolts
 
+### Skills: python, coolab,
 <a href="https://github.com/ArberIvan/Metal-Structure_Bolts"><img src="https://github.com/ArberIvan/ArberIvan/blob/main/estruc_minera.png" style="height: 30%; width:30%;"/></a>
 
 ## JJOO-Rio-2016
