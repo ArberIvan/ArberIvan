@@ -28,6 +28,10 @@ See ya, IA (not a 🤖)
 
 <a href="https://github.com/ArberIvan/Metal-Structure_Bolts"><img src="https://github.com/ArberIvan/ArberIvan/blob/main/estruc_minera.png" style="height: 30%; width:30%;"/></a>
 
+## JJOO-Rio-2016
+
+<a href="https://github.com/ArberIvan/RIO-2016"><img src="https://github.com/ArberIvan/RIO-2016/blob/main/logo-rio2016.webp" style="height: 30%; width:30%;"/></a>
+
 <!--
 **ArberIvan/ArberIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
