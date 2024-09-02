@@ -35,7 +35,7 @@ See ya, IA (not a 🤖)
 
 ## Plan-Alimenticio-SMAE
 
-<a href="https://github.com/ArberIvan/Plan-alimenticio_SMAE"><img src="https://github.com/ArberIvan/RIO-2016/blob/main/logo-rio2016.webp" style="height: 30%; width:30%;"/></a>
+<a href="https://github.com/ArberIvan/Plan-alimenticio_SMAE"><img src="https://github.com/ArberIvan/ArberIvan/blob/main/Smae-digital-web-1.jpg" style="height: 30%; width:30%;"/></a>
 
 <!--
 **ArberIvan/ArberIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
