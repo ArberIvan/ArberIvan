@@ -1,5 +1,5 @@
 # Hi! I'm Ivan Arber 👋
-## IT Specialist SSr. | Data Science | Business analys
+## IT Specialist SSr. | Data Analyst | Business analys
 I am 28 years old and currently working as an IT Specialist. I've been working with data and BI technologies for almost five years, making my way through Data Analysis, Data Science, BI tools like Tableu and Power BI, ERP models, among many other tecnologies. Always implementing everything I learn into my work and my own projects and start ups. 
 
 I consider myself an analytical and highly creative person, driven by curiosity to continuously explore new technologies and procedures. I am not afraid of the unknown; instead, it motivates me to keep learning and improving.
