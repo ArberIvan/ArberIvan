@@ -32,12 +32,6 @@ a factory.
 
 ---
 
-## My last resume (in spanish):
-
-<a href="https://github.com/ArberIvan/CV-Arber_Ivan/blob/04bd56638259065f56e848a9acde3c617de2d2a6/ARBER%2CIV%C3%81N.pdf"><img src="https://github.com/ArberIvan/ArberIvan/blob/main/cv_image.png" style="height: 60%; width:60%;"/></a>
-
----
-
 ### Selected work
 
 **Metal-Structure_Bolts**
