@@ -1,41 +1,57 @@
-# Hi! I'm Ivan Arber 👋
-## IT Specialist SSr. | Data Analyst | Business analys
-I am 28 years old and currently working as an IT Specialist. I've been working with data and BI technologies for almost five years, making my way through Data Analysis, Data Science, BI tools like Tableu and Power BI, ERP models, among many other tecnologies. Always implementing everything I learn into my work and my own projects and start ups. 
+# Iván Arber
 
-I consider myself an analytical and highly creative person, driven by curiosity to continuously explore new technologies and procedures. I am not afraid of the unknown; instead, it motivates me to keep learning and improving.
+**BIM Manager & IT Lead — precast concrete industry**
 
-I'm looking for a place where I can face new challenges that allow me to apply my skills and continue growing professionally.
+I work where structural engineering meets software: making the
+engineering model and the factory floor speak the same language.
 
-Outside of work, I am a player and physical trainer for an ultimate frisbee team in Paraná, Entre Ríos. In my free time, I go to the gym and practice calisthenics, enjoying sports almost every day of the week.
+On the engineering side: structural detailing in Tekla Structures
+and AutoCAD, and the full rollout of IMPACT (StruSoft) across a
+precast company — from the design module through to logistics.
 
-In this space, I will upload the most relevant projects I have worked on so far. I hope you get a chance to see some of my work, I'm always open to suggestions ! (and job offers !! )
+On the technical side: the Azure server it runs on, the VPN
+infrastructure behind remote work, device management, and the
+integrations that connect engineering, production and admin.
 
-See ya, IA (not a 🤖)
+The part I care about most is the overlap — turning engineering
+data into production decisions. Power BI, Looker Studio, SQL,
+the Power Platform and Python.
 
-## Find me at:
+I'm finishing a Civil Engineering degree at UTN (Argentina) and
+studying industrial systems security, which is the other half of
+the same problem: an automated plant is a network before it is
+a factory.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Arber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ivan-arber)
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-@ivan_arber-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/ivan_arber?igsh=YTBpMmE2c2hoZnhk)
+### Working with
+
+`Tekla Structures` · `AutoCAD` · `Revit` · `IMPACT (StruSoft)` ·
+`Trimble Connect` · `Azure` · `SQL` · `Python` · `Power BI` ·
+`Looker Studio` · `Power Apps` · `AppSheet`
+
+---
 
 ## My last resume (in spanish):
 
 <a href="https://github.com/ArberIvan/CV-Arber_Ivan/blob/04bd56638259065f56e848a9acde3c617de2d2a6/ARBER%2CIV%C3%81N.pdf"><img src="https://github.com/ArberIvan/ArberIvan/blob/main/cv_image.png" style="height: 60%; width:60%;"/></a>
 
-# The most relevant works are the following:
+---
 
-## Metal-Structure_Bolts
+### Selected work
 
-#### Skills: python, coolab,
-<a href="https://github.com/ArberIvan/Metal-Structure_Bolts"><img src="https://github.com/ArberIvan/ArberIvan/blob/main/estruc_minera.png" style="height: 30%; width:30%;"/></a>
+**Metal-Structure_Bolts**
+[una línea: qué problema resuelve, con qué datos, qué resultado dio]
+`Python` · `pandas`
 
-## JJOO-Rio-2016
+Most of what I build lives inside company systems, so what's
+public here is the part I can share.
 
-<a href="https://github.com/ArberIvan/RIO-2016"><img src="https://github.com/ArberIvan/RIO-2016/blob/main/logo-rio2016.webp" style="height: 30%; width:30%;"/></a>
+---
 
-## Plan-Alimenticio-SMAE
+Santa Fe, Argentina · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Arber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ivan-arber)
 
-<a href="https://github.com/ArberIvan/Plan-alimenticio_SMAE"><img src="https://github.com/ArberIvan/ArberIvan/blob/main/Smae-digital-web-1.jpg" style="height: 30%; width:30%;"/></a>
+Off the keyboard: climbing, calisthenics, ultimate frisbee.
 
 <!--
 **ArberIvan/ArberIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
