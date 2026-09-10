@@ -51,7 +51,7 @@ public here is the part I can share.
 
 Santa Fe, Argentina · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Arber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ivan-arber)
 
-Off the keyboard: climbing, calisthenics, ultimate frisbee.
+Off the keyboard: climbing, calisthenics, gym.
 
 <!--
 **ArberIvan/ArberIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
