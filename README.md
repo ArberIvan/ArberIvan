@@ -6,8 +6,8 @@ I work where structural engineering meets software: making the
 engineering model and the factory floor speak the same language.
 
 On the engineering side: structural detailing in Tekla Structures
-and AutoCAD, and the full rollout of IMPACT (StruSoft) across a
-precast company — from the design module through to logistics.
+and AutoCAD, and the full rollout of the plant's design and
+production software — from the design module through to logistics.
 
 On the technical side: the Azure server it runs on, the VPN
 infrastructure behind remote work, device management, and the
@@ -26,27 +26,31 @@ a factory.
 
 ### Working with
 
-`Tekla Structures` · `AutoCAD` · `Revit` · `IMPACT (StruSoft)` ·
-`Trimble Connect` · `Azure` · `SQL` · `Python` · `Power BI` ·
-`Looker Studio` · `Power Apps` · `AppSheet`
+`Tekla Structures` · `AutoCAD` · `Revit` · `Trimble Connect` ·
+`Azure` · `SQL` · `Python` · `Power BI` · `Looker Studio` ·
+`Power Apps` · `AppSheet`
 
 ---
 
 ### Selected work
 
-**Metal-Structure_Bolts**
-[una línea: qué problema resuelve, con qué datos, qué resultado dio]
+**[Metal-Structure_Bolts](https://github.com/ArberIvan/Metal-Structure_Bolts)**
+Predicting bolt consumption for steel structure projects. Built on
+real data from 20+ structures already detailed in Tekla, it estimates
+how many bolts a new project will need straight from its tender IFC.
+Bolts are expensive and slow to source in Argentina — lead times run
+into months — so ordering ahead of the detailing phase is worth real
+money.
 `Python` · `pandas`
 
-Most of what I build lives inside company systems, so what's
-public here is the part I can share.
+Most of what I build lives inside company systems, so what's public
+here is the part I can share.
 
 ---
 
-Santa Fe, Argentina · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Arber-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ivan-arber)
+Santa Fe, Argentina · [LinkedIn](https://www.linkedin.com/in/ivan-arber)
 
-Off the keyboard: climbing, calisthenics, gym.
-
+Off the keyboard: climbing, calisthenics, ultimate frisbee.
 <!--
 **ArberIvan/ArberIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
